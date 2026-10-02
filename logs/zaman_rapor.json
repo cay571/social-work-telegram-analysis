@@ -1,0 +1,164 @@
+{
+  "ay_sayisi": 77,
+  "aylik_medyan": 1095,
+  "mad": 613.0,
+  "esik_mesaj": 4276,
+  "olagandisi_aylar": [
+    {
+      "ay": "2020-10",
+      "mesaj": 6015,
+      "z": 5.41
+    },
+    {
+      "ay": "2020-11",
+      "mesaj": 6930,
+      "z": 6.42
+    },
+    {
+      "ay": "2022-11",
+      "mesaj": 8399,
+      "z": 8.04
+    },
+    {
+      "ay": "2022-12",
+      "mesaj": 7932,
+      "z": 7.52
+    },
+    {
+      "ay": "2023-01",
+      "mesaj": 5379,
+      "z": 4.71
+    },
+    {
+      "ay": "2023-04",
+      "mesaj": 5292,
+      "z": 4.62
+    },
+    {
+      "ay": "2024-04",
+      "mesaj": 6475,
+      "z": 5.92
+    }
+  ],
+  "yillik": [
+    {
+      "yil": 2020,
+      "mesaj": 19923,
+      "gonderici": 1098,
+      "talep_yuzde": 14.3,
+      "ort_token": 10.5,
+      "mesaj_kisi_basi": 18.1
+    },
+    {
+      "yil": 2021,
+      "mesaj": 16158,
+      "gonderici": 1306,
+      "talep_yuzde": 17.0,
+      "ort_token": 13.0,
+      "mesaj_kisi_basi": 12.4
+    },
+    {
+      "yil": 2022,
+      "mesaj": 31488,
+      "gonderici": 2131,
+      "talep_yuzde": 18.7,
+      "ort_token": 11.6,
+      "mesaj_kisi_basi": 14.8
+    },
+    {
+      "yil": 2023,
+      "mesaj": 28650,
+      "gonderici": 1387,
+      "talep_yuzde": 14.6,
+      "ort_token": 12.2,
+      "mesaj_kisi_basi": 20.7
+    },
+    {
+      "yil": 2024,
+      "mesaj": 25248,
+      "gonderici": 1841,
+      "talep_yuzde": 26.9,
+      "ort_token": 11.3,
+      "mesaj_kisi_basi": 13.7
+    },
+    {
+      "yil": 2025,
+      "mesaj": 6883,
+      "gonderici": 758,
+      "talep_yuzde": 24.7,
+      "ort_token": 12.8,
+      "mesaj_kisi_basi": 9.1
+    },
+    {
+      "yil": 2026,
+      "mesaj": 3116,
+      "gonderici": 498,
+      "talep_yuzde": 33.7,
+      "ort_token": 11.7,
+      "mesaj_kisi_basi": 6.3
+    }
+  ],
+  "afet_terimleri": {
+    "deprem": {
+      "deprem_aylari_yuzde": 2.84,
+      "diger_aylar_yuzde": 0.09,
+      "kat": 31.6
+    },
+    "afad": {
+      "deprem_aylari_yuzde": 0.7,
+      "diger_aylar_yuzde": 0.38,
+      "kat": 1.8
+    },
+    "enkaz": {
+      "deprem_aylari_yuzde": 1.07,
+      "diger_aylar_yuzde": 0.0,
+      "kat": null
+    },
+    "barınma": {
+      "deprem_aylari_yuzde": 0.28,
+      "diger_aylar_yuzde": 0.01,
+      "kat": 28.0
+    },
+    "gönüllü": {
+      "deprem_aylari_yuzde": 0.92,
+      "diger_aylar_yuzde": 0.17,
+      "kat": 5.4
+    },
+    "yardım_kampanyası": {
+      "deprem_aylari_yuzde": 0.06,
+      "diger_aylar_yuzde": 0.01,
+      "kat": 6.0
+    },
+    "deprem_bolgesi": {
+      "deprem_aylari_yuzde": 2.96,
+      "diger_aylar_yuzde": 0.17,
+      "kat": 17.4
+    }
+  },
+  "saat_dagilimi": {
+    "0": 4.4,
+    "1": 1.9,
+    "2": 0.4,
+    "3": 0.1,
+    "4": 0.1,
+    "5": 0.1,
+    "6": 0.1,
+    "7": 0.3,
+    "8": 0.9,
+    "9": 2.1,
+    "10": 3.7,
+    "11": 5.6,
+    "12": 6.1,
+    "13": 5.6,
+    "14": 5.9,
+    "15": 6.3,
+    "16": 6.7,
+    "17": 6.1,
+    "18": 6.8,
+    "19": 7.3,
+    "20": 8.3,
+    "21": 7.9,
+    "22": 7.4,
+    "23": 5.9
+  }
+}

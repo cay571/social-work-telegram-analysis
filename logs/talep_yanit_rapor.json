@@ -1,0 +1,57 @@
+{
+  "siniflandirici": {
+    "egitim_n": 600,
+    "talep_sinifi": {
+      "precision": 0.789,
+      "recall": 0.662,
+      "f1-score": 0.72,
+      "support": 130.0
+    },
+    "makro_f1": 0.825,
+    "dogruluk": 0.888,
+    "duyarlilik": 0.662,
+    "ozgulluk": 0.951,
+    "karisiklik_matrisi": [
+      [
+        447,
+        23
+      ],
+      [
+        44,
+        86
+      ]
+    ]
+  },
+  "talep_yaygınlik": {
+    "ham_yuzde": 19.17,
+    "duzeltilmis_yuzde": 23.3,
+    "ornekleme_dayali_yuzde": 21.67
+  },
+  "yanit": {
+    "analiz_edilen_mesaj": 131441,
+    "talep": {
+      "mesaj": 25186,
+      "yanit_alma_yuzde": 40.0,
+      "medyan_ilk_yanit_dk": 4.9,
+      "5dk_icinde_yuzde": 50.3,
+      "1saat_icinde_yuzde": 83.7,
+      "24saat_icinde_yuzde": 98.8,
+      "ortalama_yanit_sayisi": 0.5
+    },
+    "diger": {
+      "mesaj": 106255,
+      "yanit_alma_yuzde": 27.2,
+      "medyan_ilk_yanit_dk": 2.3,
+      "5dk_icinde_yuzde": 63.9,
+      "1saat_icinde_yuzde": 89.7,
+      "24saat_icinde_yuzde": 99.3,
+      "ortalama_yanit_sayisi": 0.34
+    }
+  },
+  "yanitlayanlar": {
+    "farkli_yanitlayan": 3637,
+    "toplam_yanit": 51404,
+    "en_aktif_yuzde1_payi": 26.0,
+    "en_aktif_20_payi": 18.9
+  }
+}

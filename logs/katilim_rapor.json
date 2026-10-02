@@ -1,0 +1,52 @@
+{
+  "gonderici": 5267,
+  "mesaj": 139688,
+  "gini": 0.7942,
+  "en_aktif_yuzde1_payi": 29.7,
+  "en_aktif_yuzde5_payi": 56.9,
+  "en_aktif_yuzde10_payi": 70.9,
+  "en_aktif_20_kisi_payi": 18.5,
+  "mesajlarin_80ini_ureten_kisi": 861,
+  "mesajlarin_80ini_ureten_kisi_yuzde": 16.3,
+  "tek_mesajli_gonderici_yuzde": 20.4,
+  "medyan_mesaj": 5,
+  "yonetici_sayisi": 5,
+  "yonetici_mesaj_payi": 2.9,
+  "roller": {
+    "karışık": {
+      "kisi": 1015,
+      "mesaj": 58132,
+      "ort_mesaj": 57.3,
+      "kisi_yuzde": 19.3,
+      "mesaj_yuzde": 41.6
+    },
+    "kaynak/duyuru paylaşan": {
+      "kisi": 140,
+      "mesaj": 8968,
+      "ort_mesaj": 64.1,
+      "kisi_yuzde": 2.7,
+      "mesaj_yuzde": 6.4
+    },
+    "seyrek katılımcı": {
+      "kisi": 2477,
+      "mesaj": 5023,
+      "ort_mesaj": 2.0,
+      "kisi_yuzde": 47.0,
+      "mesaj_yuzde": 3.6
+    },
+    "soru soran": {
+      "kisi": 706,
+      "mesaj": 13594,
+      "ort_mesaj": 19.3,
+      "kisi_yuzde": 13.4,
+      "mesaj_yuzde": 9.7
+    },
+    "yanıtlayan": {
+      "kisi": 929,
+      "mesaj": 53971,
+      "ort_mesaj": 58.1,
+      "kisi_yuzde": 17.6,
+      "mesaj_yuzde": 38.6
+    }
+  }
+}

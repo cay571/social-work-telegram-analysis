@@ -1,0 +1,85 @@
+{
+  "egitim_n": 600,
+  "siniflar": [
+    "bilgi_duyuru",
+    "bilgi_talebi",
+    "mobilizasyon",
+    "yorum_sohbet"
+  ],
+  "capraz_dogrulama": {
+    "bilgi_duyuru": {
+      "precision": 0.547,
+      "recall": 0.46,
+      "f1-score": 0.5,
+      "support": 139.0
+    },
+    "bilgi_talebi": {
+      "precision": 0.718,
+      "recall": 0.685,
+      "f1-score": 0.701,
+      "support": 130.0
+    },
+    "mobilizasyon": {
+      "precision": 0.489,
+      "recall": 0.39,
+      "f1-score": 0.434,
+      "support": 59.0
+    },
+    "yorum_sohbet": {
+      "precision": 0.676,
+      "recall": 0.776,
+      "f1-score": 0.723,
+      "support": 272.0
+    }
+  },
+  "makro_f1": 0.589,
+  "dogruluk": 0.645,
+  "karisiklik_matrisi": {
+    "siniflar": [
+      "bilgi_duyuru",
+      "bilgi_talebi",
+      "mobilizasyon",
+      "yorum_sohbet"
+    ],
+    "matris": [
+      [
+        64,
+        15,
+        7,
+        53
+      ],
+      [
+        13,
+        89,
+        3,
+        25
+      ],
+      [
+        10,
+        3,
+        23,
+        23
+      ],
+      [
+        30,
+        17,
+        14,
+        211
+      ]
+    ]
+  },
+  "korpus_n": 131466,
+  "ham_oranlar_yuzde": {
+    "bilgi_duyuru": 17.19,
+    "bilgi_talebi": 20.5,
+    "mobilizasyon": 7.79,
+    "yorum_sohbet": 54.52
+  },
+  "duzeltilmis_oranlar_yuzde": {
+    "bilgi_duyuru": 3.25,
+    "bilgi_talebi": 19.5,
+    "mobilizasyon": 3.24,
+    "yorum_sohbet": 74.01
+  },
+  "dusuk_guvenli_tahmin_yuzde": 24.7
+}

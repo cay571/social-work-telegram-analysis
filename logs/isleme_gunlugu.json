@@ -1,0 +1,106 @@
+{
+  "calisma_zamani_utc": "2026-09-17T18:44:33+00:00",
+  "python": "3.14.6",
+  "pandas": "3.0.4",
+  "parametreler": {
+    "tohum": 20260917,
+    "ornek_A": 600,
+    "ornek_B": 300,
+    "lematizasyon": {
+      "uygulandi": false
+    },
+    "min_token_uzunluk": 2,
+    "durak_kelime_sayisi": 210,
+    "karsilastirma_tarihi": "2026-07-01"
+  },
+  "kume_tanimlari": {
+    "metin_analizi": "servis değil ve metin içeriyor ve bot değil",
+    "katilim_analizi": "servis değil ve gönderici türü 'user'"
+  },
+  "talep_kaliplari": [
+    "\\?",
+    "\\bvar\\s*mı\\b",
+    "\\bbilen\\s+var\\b",
+    "\\bbilgisi\\s+olan\\b",
+    "\\byard[ıi]mc[ıi]\\s+ol",
+    "\\bnas[ıi]l\\b",
+    "\\bne\\s+zaman\\b",
+    "\\bnereden\\b",
+    "\\bkim\\s+bilir\\b",
+    "\\bacaba\\b",
+    "\\brica\\s+ed",
+    "\\bsormak\\s+istiyorum\\b",
+    "\\bbilgi\\s+alabilir\\b",
+    "\\bmi\\?|\\bmu\\?|\\bmü\\?|\\bmı\\?"
+  ],
+  "veri_akisi": [
+    {
+      "Adım": "1. Ham satır",
+      "Tüm dönem": 153613,
+      "2026-07-01 öncesi": 151788
+    },
+    {
+      "Adım": "2. Servis mesajı (katıldı/ayrıldı vb.)",
+      "Tüm dönem": 13583,
+      "2026-07-01 öncesi": 13273
+    },
+    {
+      "Adım": "3. Bot mesajı",
+      "Tüm dönem": 164,
+      "2026-07-01 öncesi": 164
+    },
+    {
+      "Adım": "4. Metinsiz (yalnızca medya veya boş)",
+      "Tüm dönem": 4804,
+      "2026-07-01 öncesi": 4776
+    },
+    {
+      "Adım": "5. Metin analizi kümesi",
+      "Tüm dönem": 135062,
+      "2026-07-01 öncesi": 133575
+    },
+    {
+      "Adım": "6.   bunun içinde aynı göndericiden birebir tekrar",
+      "Tüm dönem": 3596,
+      "2026-07-01 öncesi": 3553
+    },
+    {
+      "Adım": "7. Tekrarsız metin kümesi",
+      "Tüm dönem": 131466,
+      "2026-07-01 öncesi": 130022
+    },
+    {
+      "Adım": "8. Katılım analizi kümesi (bireysel hesaplar)",
+      "Tüm dönem": 139688,
+      "2026-07-01 öncesi": 138173
+    }
+  ],
+  "yanit": {
+    "yanit_olan_mesaj": 54248,
+    "ana_mesaji_veride_olan": 51404,
+    "medyan_yanit_suresi_dk": 4.2
+  },
+  "ortak_metin": {
+    "grup_sayisi": 1833,
+    "en_cok_paylasilan_metin_gonderici_sayisi": 388
+  },
+  "baglanti": {
+    "toplam": 9893,
+    "benzersiz_alan_adi": 381,
+    "kisaltici_link": 79
+  },
+  "ornekleme": {
+    "A": 599,
+    "B": 300,
+    "yillara_gore": {
+      "2020": 132,
+      "2021": 112,
+      "2022": 218,
+      "2023": 181,
+      "2024": 183,
+      "2025": 50,
+      "2026": 23
+    }
+  },
+  "sure_sn": 19.9
+}

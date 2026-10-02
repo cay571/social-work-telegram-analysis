@@ -1,0 +1,55 @@
+{
+  "ornek": {
+    "sinyal_var": 150,
+    "sinyal_yok": 100
+  },
+  "isabet_genis_yuzde": {
+    "tahmin": 68.67,
+    "alt": 61.24,
+    "ust": 76.09
+  },
+  "isabet_dar_yuzde": {
+    "tahmin": 79.59,
+    "alt": 68.31,
+    "ust": 90.88,
+    "n": 49
+  },
+  "kacirma_yuzde": {
+    "tahmin": 10.0,
+    "alt": 4.12,
+    "ust": 15.88
+  },
+  "duzeltilmis_yaygınlik": {
+    "mesaj_tahmini": 18171,
+    "yuzde": 13.45,
+    "ham_genis_yuzde": 5.89,
+    "ham_dar_yuzde": 1.89
+  },
+  "bilesen_isabeti": {
+    "destek çağrısı": {
+      "n": 7,
+      "isabet_yuzde": 42.86
+    },
+    "etkinlik": {
+      "n": 61,
+      "isabet_yuzde": 59.02
+    },
+    "hashtag": {
+      "n": 24,
+      "isabet_yuzde": 100.0
+    },
+    "hashtag/etiket": {
+      "n": 11,
+      "isabet_yuzde": 100.0
+    },
+    "imza": {
+      "n": 6,
+      "isabet_yuzde": 66.67
+    },
+    "twitter çağrısı": {
+      "n": 11,
+      "isabet_yuzde": 81.82
+    }
+  },
+  "kodlayici_uyumu": "insan kodlaması henüz doldurulmamış"
+}

@@ -1,0 +1,47 @@
+{
+  "metin_analizi_kumesi": 135062,
+  "bilesenler": {
+    "hashtag": {
+      "mesaj": 1297,
+      "oran_yuzde": 0.96,
+      "gonderici": 196
+    },
+    "şablon metin": {
+      "mesaj": 106,
+      "oran_yuzde": 0.078,
+      "gonderici": 47
+    },
+    "net sözlük (dilekçe/imza/kampanya)": {
+      "mesaj": 1181,
+      "oran_yuzde": 0.874,
+      "gonderici": 504
+    },
+    "dilekçe bağlantısı": {
+      "mesaj": 86,
+      "oran_yuzde": 0.064,
+      "gonderici": 35
+    },
+    "bağlam gerektiren sözlük": {
+      "mesaj": 5597,
+      "oran_yuzde": 4.144,
+      "gonderici": 923
+    }
+  },
+  "sinyal_dar": {
+    "mesaj": 2557,
+    "oran_yuzde": 1.893,
+    "gonderici": 633
+  },
+  "sinyal_genis": {
+    "mesaj": 7951,
+    "oran_yuzde": 5.887,
+    "gonderici": 1189
+  },
+  "hashtag": {
+    "benzersiz": 424,
+    "tek_ayda_kalan": 397,
+    "en_az_3_ay_suren": 7
+  },
+  "sosyal_medya_linki_olan_mesaj": 5466,
+  "hashtag_ve_sosyal_medya_linki": 26
+}
